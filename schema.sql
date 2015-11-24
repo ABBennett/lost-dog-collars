@@ -1,4 +1,4 @@
-@@ -0,0 +1,83 @@
+
 DROP TABLE if EXISTS dog_owners;
 DROP TABLE if EXISTS lost_dog_collars;
 
